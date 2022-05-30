@@ -12,6 +12,9 @@ https://github.com/kajirikajiri/jamstack-tech-blog/discussions/81#discussion-410
         - https://github.com/react-hook-form/react-hook-form
         - https://github.com/cypress-io/cypress
         - https://github.com/facebook/jest
+        - https://github.com/nvh95/jest-preview
+        - https://github.com/babel/babel
+        - https://github.com/rome/tools
     - [ ] 取得したい内容を取得して、ファイルに書き込み
         - find . -type f -mindepth 10 | grep ".js" | grep -v "node_modules"
         - find . -type f -size +100k | grep ".js" | grep -v "node_modules"
